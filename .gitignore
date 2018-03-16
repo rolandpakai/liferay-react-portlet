@@ -25,6 +25,7 @@
 /plugins-sdk/dist
 /plugins-sdk/lib
 test-results
+build.gradle
 gradle.properties
 gradle-local.properties
 gradlew

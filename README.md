@@ -1,4 +1,4 @@
-# Liferay React portlet# Liferay React npm portlet
+# Liferay React npm portlet
 
 **Important:** This sample works for Liferay DXP Fix Pack 30+ and Liferay Portal
 CE GA5+.
